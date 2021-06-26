@@ -1,0 +1,8 @@
+prac/Person.java
+ prac.Person
+prac/prac.java
+ prac.prac
+com/sparta/week01homework/Week01homeworkApplication.java
+ com.sparta.week01homework.Week01homeworkApplication
+controller/PersonController.java
+ controller.PersonController
