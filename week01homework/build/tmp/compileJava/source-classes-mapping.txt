@@ -1,8 +1,12 @@
-prac/Person.java
- prac.Person
-prac/prac.java
- prac.prac
+com/sparta/week01homework/service/PersonService.java
+ com.sparta.week01homework.service.PersonService
+com/sparta/week01homework/domain/Person.java
+ com.sparta.week01homework.domain.Person
+com/sparta/week01homework/domain/PersonRepository.java
+ com.sparta.week01homework.domain.PersonRepository
+com/sparta/week01homework/controller/PersonController.java
+ com.sparta.week01homework.controller.PersonController
 com/sparta/week01homework/Week01homeworkApplication.java
  com.sparta.week01homework.Week01homeworkApplication
-controller/PersonController.java
- controller.PersonController
+com/sparta/week01homework/domain/PersonRequestDto.java
+ com.sparta.week01homework.domain.PersonRequestDto
